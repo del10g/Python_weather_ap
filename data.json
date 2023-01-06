@@ -1,0 +1,16 @@
+{
+    "locations": [
+        {
+            "id": 101275339,
+            "name": "Mumbai",
+            "country": "India",
+            "timezone": "Asia\/Kolkata",
+            "language": "en",
+            "adminArea": "Maharashtra",
+            "adminArea2": null,
+            "adminArea3": null,
+            "lon": 72.8826,
+            "lat": 19.0728
+        }
+    ]
+}
